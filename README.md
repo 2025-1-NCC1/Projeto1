@@ -8,7 +8,7 @@
 
 ## Projeto1
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br)">Eric De Lucas Silva</a>, <a href="https://www.linkedin.com/in/arthur-bernardino-70b651302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Arthur Bernardino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br)">Eric De Lucas Silva</a>, <a href="https://www.linkedin.com/in/arthur-bernardino-70b651302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Arthur Bernardino</a>, <a href="https://www.linkedin.com/in/diego-pereira-119847361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Diego Pereira de Carvalho</a>, <a href="www.linkedin.com/in/bruno-nóbrega-537376362">Bruno Nobrega</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz do Nascimento</a>
 
