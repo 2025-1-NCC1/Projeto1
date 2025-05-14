@@ -70,7 +70,7 @@ Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 ### 💻 **Download do Projeto**
 Clique no botão abaixo para baixar o arquivo diretamente:
 
-[**⬇️ Download EBAD_1.rar**](./EBAD_1.rar)
+[**⬇️ Download EBAD_1.rar**](sandbox:/mnt/data/EBAD_1_download.rar)
 
 🛠 Como Baixar e Abrir o Projeto no Unity
 Após a instalação do projeto:
