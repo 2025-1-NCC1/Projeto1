@@ -8,9 +8,9 @@
 
 ## Projeto1
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br)">Eric De Lucas Silva</a>, <a href="https://www.linkedin.com/in/arthur-bernardino-70b651302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Arthur Bernardino</a>, <a href="www.linkedin.com/in/bruno-nóbrega-537376362">Bruno Nobrega</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br)">Eric De Lucas Silva</a>, <a href="https://www.linkedin.com/in/arthur-bernardino-70b651302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Arthur Alves Bernardino</a>, <a href="www.linkedin.com/in/bruno-nóbrega-537376362">Bruno Nobrega</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz do Nascimento</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander</a>, <a href="https://www.linkedin.com/in/gillespleite/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/lucymari/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>
 
 ## Descrição
 Jogo chamado “EconomizaCity”, onde o jogador vive o cotidiano em uma cidade fictícia e precisa fazer escolhas conscientes sobre o uso de aparelhos elétricos. Cada ação impacta diretamente no consumo de energia, refletido em um contador. O jogo está alinhado com o Objetivo de Desenvolvimento Sustentável (ODS) - 7, que trata do acesso à energia limpa e acessível, promovendo o uso responsável dos recursos naturais.
@@ -18,13 +18,12 @@ Jogo chamado “EconomizaCity”, onde o jogador vive o cotidiano em uma cidade 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88db68e7-2edf-4b25-8b8f-5f3a68314fdc" alt="Tela Inicial do Jogo EconomizaCity" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a>,
-  <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>,
-  via <a href="http://pix4free.org/">Pix4free</a>
+
+  
 </p>
 
 
-projeto é um jogo digital chamado EconomizaCity, desenvolvido com o objetivo de conscientizar os jogadores sobre o consumo responsável de energia elétrica. Ambientado em uma cidade virtual, o jogador assume o papel de um morador que precisa tomar decisões sobre o uso de aparelhos eletrônicos, como lâmpadas, geladeiras e chuveiros. Cada ação no jogo afeta diretamente um contador de energia, simulando de forma educativa o impacto do uso cotidiano desses recursos.
+Projeto é um jogo digital chamado EconomizaCity, desenvolvido com o objetivo de conscientizar os jogadores sobre o consumo responsável de energia elétrica. Ambientado em uma cidade virtual, o jogador assume o papel de um morador que precisa tomar decisões sobre o uso de aparelhos eletrônicos, como lâmpadas, geladeiras e chuveiros. Cada ação no jogo afeta diretamente um contador de energia, simulando de forma educativa o impacto do uso cotidiano desses recursos.
 
 Além de entreter, o jogo promove valores como sustentabilidade e cidadania digital. À medida que o jogador interage com o ambiente, ele aprende que atitudes simples, como evitar o uso excessivo de energia, podem gerar grandes mudanças. A mecânica de somar pontos de energia e a presença de uma barra de “corrupção energética” reforçam a ideia de que escolhas conscientes são essenciais para um futuro mais sustentável.
 <br><br>
@@ -37,30 +36,20 @@ Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 
 <h2>Estrutura de Pastas do Projeto</h2>
 <pre>
-\---EBAD_1
-    |
-    +---Assets
-    |   |
-    |   +---imagem
-    |   |   \---Materials
-    |   +---materiais 3D
-    |   |   +---3DS
-    |   |   |   \---Textures
-    |   |   +---arquivos
-    |   |   |   +---24-x
-    |   |   |   |   \---x
-    |   |   |   |       \---textures
-    |   |   |   +---38-blender-wip
-    |   |   |   |   \---Blender WIP
-    |   |   |   ...
-    |   \---TutorialInfo
-    |       +---Icons
-    |       \---Scripts
-    |           \---Editor
-    |
-    +---Packages
-    |
-    \---ProjectSettings
+-Raiz
+|
+|-->documentos
+ |-->antigos
+ |Documentação.docx
+|-->executáveis
+ |-->windows
+ |-->android
+ |-->HTML
+|-->imagens
+|-->src
+ |-->Backend
+ |-->Frontend
+|readme.md
 </pre>
 
 
@@ -70,7 +59,7 @@ Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 ### 💻 **Download do Projeto**
 Clique no botão abaixo para baixar o arquivo diretamente:
 
-[**⬇️ Download EBAD_1.rar**](sandbox:/mnt/data/EBAD_1_download.rar)
+<a href="[www.linkedin.com/in/bruno-nóbrega-537376362](https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br)">EconomizaCity</a>
 
 🛠 Como Baixar e Abrir o Projeto no Unity
 Após a instalação do projeto:
@@ -98,7 +87,7 @@ Agora, clique no projeto listado no Unity Hub para abrir e iniciar o jogo.
  Para abrir este projeto você necessita das seguintes ferramentas:
 Unity Hub:
 
-Versão recomendada: Unity 2020.3.38f1 LTS ou superior.
+Versão recomendada: Unity 6 6000.0.38f1 LTS ou superior.
 
 Faça o download do Unity Hub no site oficial: Unity Download
 
@@ -118,7 +107,7 @@ Espaço em disco: 5 GB livres para o projeto e dependências.
 
 
 ## 📋 Licença/License
-<a href="https://github.com/2025-1-NCC1/Projeto1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EBAD</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> © 2005 por </font></font><a href="https://github.com/Ericdelucas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ERIC DE LUCAS SILVA</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> está licenciado sob </font></font><a href="https://creativecommons.org/licenses/by/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Creative Commons Atribuição 4.0 Internacional</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/2025-1-NCC1/Projeto1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EconomizaCity</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> © 2025 by </font></font><a href="https://github.com/Ericdelucas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ERIC DE LUCAS SILVA; BRUNO NÓBREGA DO ESPÍRITO SANTO;Arthur Alves Bernardino</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> está licenciado sob </font></font><a href="https://creativecommons.org/licenses/by/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CC BY 4.0</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
