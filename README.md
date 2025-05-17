@@ -57,9 +57,9 @@ Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 ## 🛠 Instalação
 
 ### 💻 **Download do Projeto**
-Clique no botão abaixo para baixar o arquivo diretamente:
+Clique no botão abaixo para baixar o arquivo diretamente ou jogar clicando no link abaixo:
 
-<a href="[www.linkedin.com/in/bruno-nóbrega-537376362](https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eric-de-lucas-silva-902589265/?originalSubdomain=br)">EconomizaCity</a>
+<a href="https://eric-de-lucas-silva.itch.io/economizacity">EconomizaCity</a>
 
 🛠 Como Baixar e Abrir o Projeto no Unity
 Após a instalação do projeto:
